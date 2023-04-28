@@ -444,4 +444,4 @@ zict==2.0.0
 zipp @ file:///opt/conda/conda-bld/zipp_1641824620731/work
 zope.interface @ file:///C:/ci/zope.interface_1625036252485/work
 zopfli==0.2.1
-st_aggrid
+streamlit-aggrid
